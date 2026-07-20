@@ -155,6 +155,21 @@ npm run preview
 
 This project is open-source and available under the [MIT License](LICENSE).
 
+
+
+<div align="center">
+
+**Created By Mert Batu Bülbül**
+* 🎓 Computer Engineering Undergraduate * 💻 Full Stack Developer & AI Enthusiast *
+
+
+
+*Start tracking your rig's health today!* 🖥️✨
+<br/>
+**Don't forget to star ⭐ this repo if you found it useful!**
+
+</div>
+
 ---
 
 ## 🤝 Contributing
